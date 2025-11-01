@@ -9,3 +9,9 @@ Mga planadong feature:
 2. Pagtuman sa Material Design 3 guidelines
 3. I-publish sa Flathub para sa Linux
 4. I-publish sa F-Droid para sa Android
+
+## Pag-abri
+
+```
+npm run dev -- --open
+```
