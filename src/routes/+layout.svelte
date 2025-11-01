@@ -10,6 +10,8 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 	let { children } = $props();
 </script>
 
+<title>Prefectuary</title>
+
 <svelte:head>
 	<link rel="icon" href={favicon} />
 </svelte:head>
