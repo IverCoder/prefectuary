@@ -1,2 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2025 Iverson Briones <ivercoder@proton.me>
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
 <h1>Welcome to SvelteKit</h1>
 <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>

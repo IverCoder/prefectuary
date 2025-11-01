@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Iverson Briones <ivercoder@proton.me>
+#
+# SPDX-License-Identifier: CC0-1.0
+
 # Package Managers
 package-lock.json
 pnpm-lock.yaml

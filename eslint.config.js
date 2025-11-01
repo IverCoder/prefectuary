@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2025 Iverson Briones <ivercoder@proton.me>
+//
+// SPDX-License-Identifier: CC0-1.0
+
 import prettier from 'eslint-config-prettier';
 import { fileURLToPath } from 'node:url';
 import { includeIgnoreFile } from '@eslint/compat';
